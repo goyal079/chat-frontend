@@ -2,6 +2,28 @@
 
 A modern web application that allows you to chat with your project documents using AI. Upload your project files and get instant insights through natural conversation.
 
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone [your-repository-url]
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+### Running the Application
+
+Start the server:
+
+```bash
+npm run dev
+```
+
 ## Features
 
 ### Project Management
