@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { PlusIcon, DocumentIcon, XMarkIcon, FolderIcon, TrashIcon, ArrowPathIcon } from '@heroicons/react/24/outline';
+import { PlusIcon, DocumentIcon, XMarkIcon, FolderIcon, ArrowPathIcon } from '@heroicons/react/24/outline';
 import { toast } from 'react-toastify';
 import ChatDrawer from './ChatDrawer';
 import { createProject } from '../apis/index.apis';
